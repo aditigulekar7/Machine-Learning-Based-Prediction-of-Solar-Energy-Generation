@@ -97,7 +97,7 @@ if page == "🏠 Home":
         unsafe_allow_html=True
     )
 
-    st.write("### achine Learning Based Prediction of Solar Energy Generation")
+    st.write("### Machine Learning Based Prediction of Solar Energy Generation")
 
     st.info("""
     Predict solar energy generation using weather
